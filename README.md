@@ -248,6 +248,7 @@ This function requires no body parameters
 ### Path
 
     {base URL}/img/brands/100x100/{brandID}.png
+    
 ### Headers
 This function requires no headers.
 
