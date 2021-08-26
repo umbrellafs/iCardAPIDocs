@@ -162,8 +162,7 @@ This function requires the following url parameters:
     {
     "confirmcode" : 543210,
     "items" : [{"id":12,"quantity":1}],
-    "cardno" : 7121234567,
-    "captchaCode" : 363843
+    "cardno" : 7121234567
     }
 
 where:
