@@ -142,10 +142,16 @@ This function requires no body parameters.
 
 ### Path
 
-    {base URL}/Pay
+    {base URL}/APIPay
 
 ### Headers
-This function requires no headers
+
+    {
+    "apitoken" : c7fghj3#kleu2i$^oeddk3w4dow253kdlk+%#%DE$G^HDS874Dhhr%^H+55Ssrf#9g
+    }
+
+The API token above is just an example.
+The real token will be provided with the credentials.
 
 ### Parameters
 This function requires the following url parameters:
