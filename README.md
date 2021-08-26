@@ -17,10 +17,13 @@ The other base URL is for production and should replace the previous URL once in
 
 Below is a list of all the functions/endpoints paths and the required headers, parameters and body for each function:
  
+ - [Get Cards List ](#get-cards-list-get)
+ - [Get Brand Logo ](#get-brand-logo-get)
+ - [Purchase](#purchase-post)
  - [Retrieve Cards](#retrieve-cards-get)
- - [Purchase](#purchase-post)     
- - [Get Cards List ](#get-cards-list-get)  
- - [Get Brand Logo ](#get-brand-logo-get)  
+      
+ 
+
  
 ## Get Cards List (GET)
 
